@@ -1,3 +1,3 @@
 Pingy = 68;
 
-alert = Pingy;
+alert(Pingy);
